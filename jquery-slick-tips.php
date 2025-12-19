@@ -1,3 +1,5 @@
+// Use this in functions.php file to run jquery and slick slider Jquery is inbuilt in wordpress only have to mention it in dependency.
+
 add_action('wp_enqueue_scripts', function () {
 
     // jQuery dependency (WordPress built-in)
